@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cover](https://github.com/sarah-maau/sarah-maau/blob/main/img/cover.jpg)
+![Cover](https://github.com/sarah-maau/sarah-maau/blob/main/cover.jpg)
