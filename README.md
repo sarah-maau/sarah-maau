@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 Je suis actuellement en formation pour devenir Développeuse FullStack JS. 
+
 <!--
 **sarah-maau/sarah-maau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
