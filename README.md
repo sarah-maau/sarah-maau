@@ -12,6 +12,8 @@ I just finished my training (700 hours from October 2020 to March 2021), and it 
 Node.js. I specialized in back-end (API / Data) for a month. In parallel, I have developed personal projects in order to learn, to practice, to evolve
 constantly. 
 
+Last September, I started working as a fullstack developer in a development agency in Toulouse. To date, I have developed the front-end of an information website for professionals (Next.js in Typescript) and an API for a Flutter application (Node.js in Typescript).
+
 I'm rigorously offbeat: creative, resourceful and meticulous at the same time.
 
 I'm curious, patient, love debugging (really! and I genuinely love to help debugging, too!), and aim to code as clean as possible.
@@ -21,15 +23,18 @@ I'm curious, patient, love debugging (really! and I genuinely love to help debug
 
 - HTML / CSS 
 - JavaScript ES6+
+- TypeScript
 - NodeJS
-- NPM
-- ExpresJS
+- ReactJS, NextJS
+- NPM, Yarn
+- ExpressJS
 - SQL / PostgreSQL
+- MongoDB / Mongoose
 - Sqitch
-- Redis
-- BDD and TDD (using Chai & Mocha)
+- BDD and TDD (using Chai, Mocha, Jest)
 - Versioning with Git and GitHub
-- Agile methodology 
+- Docker
+- SCRUM and Agile methodology 
 
 ### 📫 🐦 Contact
 
