@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 I'm Sarah, junior fullstack JS developer (with a preference for the back end, let's not lie 😬). 
+🌱 I'm Sarah, confirmed fullstack JS / PHP developer 
 
 ### 🧐 About me
 
@@ -8,11 +8,13 @@ After 3 years of experience in **project management, UX / UI design and facilita
 
 I want to understand and control the entire chain of value of a website / web application: starting from the idea, prototyping, testing, develop and end up with a final version.
 
-I just finished my training (700 hours from October 2020 to March 2021), and it has provided a base of technical skills, with a focus on JavaScript and
+I finished my training (700 hours from October 2020 to March 2021), and it has provided a base of technical skills, with a focus on JavaScript and
 Node.js. I specialized in back-end (API / Data) for a month. In parallel, I have developed personal projects in order to learn, to practice, to evolve
 constantly. 
 
-Last September, I started working as a fullstack developer in a development agency in Toulouse. To date, I have developed the front-end of an information website for professionals (Next.js in Typescript) and an API for a Flutter application (Node.js in Typescript).
+In September 2021 to May 2022, I worked as a fullstack developer in a development agency in Toulouse. To date, I have developed the front-end of an information website for professionals (Next.js in Typescript) and an API for a Flutter application (Node.js in Typescript).
+
+In June 2022, I really needed to reconcile my commitments and values with my work, which is why I'm joining Vendredi's tech team as a Laravel php / Vue.js fullstack web developer.
 
 I'm rigorously offbeat: creative, resourceful and meticulous at the same time.
 
